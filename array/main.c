@@ -22,7 +22,7 @@ void main() {
 	init_arr();
 	getchar();
 }
-// beizhu
+// 这里是备注
 void init_arr(struct Array *pArr,int len){
 
 }
