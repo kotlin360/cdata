@@ -22,7 +22,7 @@ void main() {
 	init_arr();
 	getchar();
 }
-
+// beizhu
 void init_arr(struct Array *pArr,int len){
 
 }
